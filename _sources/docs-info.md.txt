@@ -18,3 +18,5 @@ To add a docs page:
 - If you want this file to appear on the site, edit the `kcni-eeg-lab/doc/index.rst` file accordingly
 
 If you have admin access on the repo, the easiest way to do this is usually using the github browser-based text editor. 
+
+Currently the contents of the `doc` folder is 'flat'; i.e. there are no subfolders. As the documentation builds out, we can add in subfolder structure from there, but in general it is a lot simpler and more transparent to keep a flat folder structure for as long as sustainable. 
