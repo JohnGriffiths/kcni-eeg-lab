@@ -8,6 +8,7 @@ KCNI EEG Lab Documentation Pages
    
    docs-info.md
    experiment_setup.md
-   
+   project-board.md
+   studies-folder.md
   
    
