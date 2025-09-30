@@ -1,3 +1,6 @@
 [submodule "studies/tay-eeg"]
 	path = studies/tay-eeg
 	url = https://github.com/andreeadiaconescu/tay-eeg
+[submodule "studies/muse-aob-tms"]
+	path = studies/muse-aob-tms
+	url = https://github.com/GriffithsLab/muse-aob-tms
