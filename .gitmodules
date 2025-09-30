@@ -1,6 +1,9 @@
 [submodule "studies/tay-eeg"]
 	path = studies/tay-eeg
 	url = https://github.com/andreeadiaconescu/tay-eeg
+[submodule "studies/rest_fnirs-eeg_experiment"]
+	path = studies/rest_fnirs-eeg
+	url = https://github.com/GriffithsLab/rest_fnirs-eeg_experiment
 [submodule "studies/muse-aob-tms"]
 	path = studies/muse-aob-tms
 	url = https://github.com/GriffithsLab/muse-aob-tms
